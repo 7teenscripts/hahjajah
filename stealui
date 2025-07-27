@@ -1,4 +1,4 @@
-local Players = game:GetService("Players")
+--[[ v1.0.0 https://wearedevs.net/obfuscator ]]local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local LocalPlayer = Players.LocalPlayer
 
